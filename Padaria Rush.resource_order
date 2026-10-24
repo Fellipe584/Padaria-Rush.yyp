@@ -1,0 +1,18 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"obj_bloco","order":2,"path":"objects/obj_bloco/obj_bloco.yy",},
+    {"name":"obj_botao_creditos","order":5,"path":"objects/obj_botao_creditos/obj_botao_creditos.yy",},
+    {"name":"obj_botao_jogar","order":4,"path":"objects/obj_botao_jogar/obj_botao_jogar.yy",},
+    {"name":"obj_controlador","order":3,"path":"objects/obj_controlador/obj_controlador.yy",},
+    {"name":"obj_player","order":1,"path":"objects/obj_player/obj_player.yy",},
+    {"name":"rm_selecao","order":1,"path":"rooms/rm_selecao/rm_selecao.yy",},
+    {"name":"spr_bloco","order":3,"path":"sprites/spr_bloco/spr_bloco.yy",},
+    {"name":"spr_botao_creditos","order":6,"path":"sprites/spr_botao_creditos/spr_botao_creditos.yy",},
+    {"name":"spr_botao_jogar","order":5,"path":"sprites/spr_botao_jogar/spr_botao_jogar.yy",},
+    {"name":"spr_fundo","order":1,"path":"sprites/spr_fundo/spr_fundo.yy",},
+    {"name":"spr_fundo1","order":4,"path":"sprites/spr_fundo1/spr_fundo1.yy",},
+    {"name":"spr_player","order":2,"path":"sprites/spr_player/spr_player.yy",},
+    {"name":"spr_tutorial","order":7,"path":"sprites/spr_tutorial/spr_tutorial.yy",},
+  ],
+}
