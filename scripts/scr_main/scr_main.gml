@@ -5,5 +5,37 @@
 
 
 
+#region globais
 
-global.pontuacao = 0;
+global.perdeu = false;
+
+global.pontos = 0;
+
+
+
+#endregion
+
+
+#region funções
+
+function perdeu_jogo(){
+	
+	if(global.perdeu == true) exit;
+	
+	layer_hspeed("Background", 0);
+	
+	global.perdeu = true;
+	
+	alarm[0] = game_get_speed(gamespeed_fps);
+	
+	hspeed = -2;
+	vspeed = -4;
+	
+	
+	
+}
+
+
+
+
+#endregion

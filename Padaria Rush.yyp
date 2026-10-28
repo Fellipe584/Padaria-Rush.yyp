@@ -55,8 +55,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"rm_selecao","path":"rooms/rm_selecao/rm_selecao.yy",},},
     {"roomId":{"name":"rm_partida","path":"rooms/rm_partida/rm_partida.yy",},},
+    {"roomId":{"name":"rm_selecao","path":"rooms/rm_selecao/rm_selecao.yy",},},
   ],
   "templateType":null,
   "TextureGroups":[

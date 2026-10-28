@@ -5,8 +5,5 @@
 
 
 
-
-room_restart();
-
-
+//global.perdeu = true;
 

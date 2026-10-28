@@ -2,6 +2,9 @@
 // Você pode escrever seu código neste editor
 
 
+if(global.perdeu = true) exit;
+
+
 
 vspeed = -5;
 
